@@ -1,2 +1,1 @@
-# GPN_2020 
-Data Science
+# GPN_2020 Data Science
